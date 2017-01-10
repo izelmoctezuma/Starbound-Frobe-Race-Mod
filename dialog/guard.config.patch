@@ -1,0 +1,114 @@
+[
+	{
+		"op": "add",
+		"path": "/hail/frobe",
+		"value": {
+			"default": [
+				"I'm watching you.",
+				"Don't make trouble and we won't trouble you.",
+				"Be nice to eachother.",
+				"Hi stranger~",
+				"Be nice and there will be no problem from us."
+			],
+			"floran": [
+				"Floran friend, hi.",
+				"No leafing around, friend.",
+				"Hello, friend.",
+				"Floran~"
+			],
+			"frobe": [
+				"Hunter.",
+				"Remember our laws, Hunter.",
+				"Welcome, Hunter.",
+				"Play safe, friend.",
+				"I was a Hunter once, but my family is closer this way."
+			],
+			"avali": [
+				"Giant fluffy space raptor? Okay.",
+				"Be careful 'round here, Raptor.",
+				"...the second biggest...",
+				"Raptor."
+			],
+			"khajiit-sr": [
+				"No skooma allowed in the area, khajiit.",
+				"Khajiit.",
+				"Watching you, khajiit.",
+				"Hello, cat."
+			]
+		}
+	}
+	/*
+	{
+		"op": "add",
+		"path": "/weaponwarning1/frobe",
+		"value": {
+			"default": [
+				"Put that away before you take out an eye.",
+				"It's all fun and games, traveller.",
+				"Put the weapon away and carry on."
+			],
+			"frobe": [
+				"Drop it.",
+				"Put the weapon away and carry on.",
+				"We are not in the wild anymore.",
+				"Mind the claws, Hunter!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/weaponwarning2/frobe",
+		"value": {
+			"default": [
+				"Second warning, pal - put the weapon down.",
+				"I said drop it!",
+				"Don't test me, friend."
+			],
+			"frobe": [
+				"Second warning, Hunter - put the weapon down.",
+				"No more games. I said drop it!",
+				"Don't test me, Hunter.",
+				"Hunter, you are in a town now..."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/weaponwarning3/frobe",
+		"value": {
+			"default": [
+				"You are sorely tempting me, friend.",
+				"I'm coming for you if you don't comply!",
+				"Your weapon. Put it the f°ck away.",
+				"Final warning - drop the weapon."
+			],
+			"frobe": [
+				"You are sorely tempting me, Hunter.",
+				"Your weapon, Hunter. Put it away. Now.",
+				"Final warning - drop the weapon.",
+				"Don't make me come and take the weapon and your LIFE!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/weaponSheathed/frobe",
+		"value": {
+			"default": [
+				"Thank you. Carry on now."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/comeBack/frobe",
+		"value": {
+			"default": [
+				"Hey!",
+				"Get over here!",
+				"Now you f°cked up!"
+			]
+		}
+	}
+	*/
+]

@@ -1,0 +1,23 @@
+{
+	"id" : "felinheroes",
+	"title" : "Felin Heroes",
+	"description" : "An historical record of some Felin heroes.",
+	"icon" : "felinheroes.png",
+	"contentPages" : [
+		"Among the Felin, there are those who are pinnacles in their art, whose example all Felin are highly suggested to follow.
+
+Felin may have no Gods, but they certainly have their Heroes.",
+
+		"To become the Hero of a particular art, one must be recognized as the best there is at what that art entails.",
+
+		"One popular example is The Hunter, Chelsie. Her name is not like most other Felin, for she was born off-world and contaminated by the local culture in a way that helped increase her hunting prowess to incredible heights. Her strategic skill is likewise commendable, and she is as wise as she is beautiful.",
+
+		"Another well-known Hero is The Healer, Letrune. Though not a real doctor, she had played on on stage often enough, and excelled in the healing arts when a co-star got wounded in an accident. Her caring deeds continue to inspire comforters around the entire span of the Felin species' influence. She is said to have a bottomless love for other beings who require her care and attention.",
+
+		"Preceding them both in chronology and scale of deeds is the Leader, Councilman Laenathin. A leonid of noble stock, and one of very few Felin with a full beard as glorious as his leadership. He was a highly learned scholar as well as a warrior, and responsible for most significant developments of Felin culture and expansion, such as ushering in the space age, until his untimely death."
+	],
+	"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

@@ -1,0 +1,15 @@
+[
+//Why are the types listed nine times over?
+{"op":"add","path":"/npctypes/-","value":{"type":"frobevisitor","species":["frobe"]}},
+{"op":"add","path":"/npctypes/-","value":{"type":"frobevisitor","species":["frobe"]}},
+{"op":"add","path":"/npctypes/-","value":{"type":"frobevisitor","species":["frobe"]}},
+{"op":"add","path":"/npctypes/-","value":{"type":"frobevisitor","species":["frobe"]}},
+{"op":"add","path":"/npctypes/-","value":{"type":"frobevisitor","species":["frobe"]}},
+{"op":"add","path":"/npctypes/-","value":{"type":"frobevisitor","species":["frobe"]}},
+{"op":"add","path":"/npctypes/-","value":{"type":"frobevisitor","species":["frobe"]}},
+{"op":"add","path":"/npctypes/-","value":{"type":"frobevisitor","species":["frobe"]}},
+{"op":"add","path":"/npctypes/-","value":{"type":"frobevisitor","species":["frobe"]}},
+//Is it to give them more chance to appear than the backers and developers?
+{"op":"add","path":"/npctypes/-","value":{"type":"devkawa","species":["frobe"]}},
+{"op":"add","path":"/npctypes/-","value":{"type":"devletrune","species":["frobe"]}}
+]

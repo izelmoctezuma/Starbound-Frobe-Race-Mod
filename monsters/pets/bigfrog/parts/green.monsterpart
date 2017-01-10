@@ -1,0 +1,6 @@
+{
+	"name" : "green",
+	"category" : "bigfrog",
+	"type" : "body",
+	"frames" : { "body" : "green.png" }
+}

@@ -1,0 +1,16 @@
+{
+	"id" : "felin2",
+	"title" : "Notes on the Terrene Protectorate",
+	"description" : "Annotated Terrene Protectorate documentation.",
+	"icon" : "felinprotectorate.png",
+	"contentPages" : [
+		"The Terrene Protectorate has stood proudly for over 500 years ^yellow;read: three generations tops^white;, striving for peace, and for the unity amongst the many peoples of the universe. We exist to offer aid to the vulnerable and sanctuary to those living in fear. ^yellow;that's really noble!^white; We endeavour to educate, protect and support all those seek our help. 
+
+We are the Terrene Protectorate, long may we stand. ^yellow;okay I'm sold^white;"
+
+	],
+	"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

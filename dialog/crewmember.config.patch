@@ -1,0 +1,13 @@
+[
+	{
+		"op": "add",
+		"path": "/converse/frobe",
+		"value": {
+			"default": [
+				"...",
+				"...glad to be of service.",
+				"...I hope I'm being useful."
+			]
+		}
+	}
+]

@@ -1,0 +1,3 @@
+[
+ { "op" : "add", "path" : "/defaultCodexes/frobe", "value" : [ "felin1", "felin2" ] }
+]

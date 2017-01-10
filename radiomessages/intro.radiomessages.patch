@@ -1,0 +1,37 @@
+[
+  {
+    "op": "add",
+    "path": "/frobestartExitBedPester",
+    "value": {
+      "type": "mission",
+      "text": "Hey, sleepyhead! You're gonna be late for work. ^#71f2f6;Why don't you press A or D and get out of bed^white;?"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/frobestartRoomTutorial",
+    "value": {
+      "important": true,
+      "type": "mission",
+      "text": "You need to get dressed for work. To interact with something, ^#71f2f6;hover over it with your cursor and press E^white;. I washed your uniform and left it in the cardboard box."
+    }
+  },
+  {
+    "op": "add",
+    "path": "/frobestartRoomTutorial2",
+    "value": {
+      "important": true,
+      "type": "mission",
+      "text": "Hurry and meet me at the Hatchery before you go, okay?"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/frobestartRoomPester",
+    "value": {
+      "important": true,
+      "type": "mission",
+      "text": "Come on! You're going to miss the graduation if you don't get moving."
+    }
+  }
+]

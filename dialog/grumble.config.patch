@@ -1,0 +1,49 @@
+[
+	{
+		"op": "add",
+		"path": "/tagCriteria/frobe",
+		"value": {
+			"default": [
+				"...I'm not very keen on this place.'"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/enclosedArea/frobe",
+		"value": {
+			"default": [
+				"...well, it's not really the nicest place around."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/otherDeed/frobe",
+		"value": {
+			"default": [
+				"... I do need my own space, you know.",
+				"...won't it get a little cramped in here with another person?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/severe/frobe",
+		"value": {
+			"default": [
+				"...this place is well below my standards. And they're pretty low.",
+				"...you can't seriously expect me to live here?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/final/frobe",
+		"value": {
+			"default": [
+				"...I think I'll find somewhere else to stay. You clearly don't respect your tenants."
+			]
+		}
+	}
+]

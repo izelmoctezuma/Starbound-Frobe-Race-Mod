@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/frobe",
+		"value": [
+			"protectoratefrobe"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/frobe",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

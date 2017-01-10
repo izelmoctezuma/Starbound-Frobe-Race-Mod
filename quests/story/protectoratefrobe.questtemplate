@@ -1,0 +1,50 @@
+{
+  "id" : "protectoratefrobe",
+  "mainQuest" : true,
+  "title" : "A Voice For The People",
+  "text" : "Make your voice heard for those who cannot.",
+  "completionText" : "You don't really know what's happening but you're still alive, so... yay?",
+  "moneyRange" : [50, 50],
+  "canBeAbandoned" : false,
+  "invisible" : false,
+  "logOnly" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/protectoratefrobe.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+    "startingMusicTime" : 11.5,
+    "startingMusicTracks" : ["/music/planetarium.ogg"],
+    "midpointMusicTime" : 48.0,
+    "midpointMusicTracks" : ["/music/arctic-battle1-loop.ogg"],
+    "midpointCinematic" : "/cinematics/intro/introstage.cinematic",
+    "midpointTeleportPosition" : [495, 823.5],
+    "endpointCinematic" : "/cinematics/intro/introcomplete.cinematic",
+    "confiscateItems" : [
+      "brokenprotectoratebroadsword",
+      "protectoratechest",
+      "protectoratepants",
+      "protectorateflowerhead",
+      "raggedprotectoratecape",
+      ["oculemonade", 1000],
+      ["chocolate", 1000],
+      "protectorateflyer",
+      ["money", 1000],
+      ["grassy", 1000],
+      ["drydirt", 1000]
+    ],
+    "skipIntroItems" : [
+      "brokenprotectoratebroadsword"
+    ],
+
+    "descriptions" : {
+      "getDressed" : "Get dressed for work",
+      "pickUpSign" : "Meet Bursto at the Hatchery",
+      "escape" : "Escape the destruction, frobe"
+    },
+
+    "followUp" : "bootship"
+  }
+}

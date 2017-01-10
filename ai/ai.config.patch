@@ -1,0 +1,10 @@
+[
+	{ "op" : "add",
+		"path" : "/species/frobe",
+		"value" : {
+			"aiFrames" : "frobeai.png",
+			"portraitFrames" : "portraits/frobeportrait.png",
+			"staticFrames" : "staticfrobe.png"
+		}
+	}
+]

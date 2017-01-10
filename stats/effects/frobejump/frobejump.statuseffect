@@ -1,0 +1,6 @@
+{
+	"name" : "frobejump",
+	"effectConfig" : {},
+	"defaultDuration" : 5,
+	"scripts" : [ "frobejump.lua" ]
+}

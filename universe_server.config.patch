@@ -1,0 +1,20 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/frobe",
+		"value" : [
+			"/ships/frobe/frobet0.structure",
+			"/ships/frobe/frobet1.structure",
+			"/ships/frobe/frobet2.structure",
+			"/ships/frobe/frobet3.structure",
+			"/ships/frobe/frobet4.structure",
+			"/ships/frobe/frobet5.structure",
+			"/ships/frobe/frobet6.structure",
+			"/ships/frobe/frobet7.structure",
+			"/ships/frobe/frobet8.structure"
+		]
+	},
+	{ "op": "add",
+	    "path": "/introInstance/frobe",
+	    "value": "frobestart"
+	}
+]

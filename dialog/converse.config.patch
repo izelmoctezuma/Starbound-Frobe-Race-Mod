@@ -1,0 +1,151 @@
+[
+	{
+		"op": "add",
+		"path": "/greeting/frobe",
+		"value": {
+			"default" : [
+				"...",
+				"...what's your purpose?"
+			],
+			"avian" : [
+				"...",
+				"...how are the skies looking today?",
+				"...you know, I might trade a pretty penny for a few of those feathers."
+			],
+			"floran" : [
+				"...",
+				"...that's the most intimidating plant I ever saw.",
+				"...I'm not looking for trouble here."
+			],
+			"human" : [
+				"...",
+				"...earther.",
+				"...my condolences on your planet, friend. It's a tough life."
+			],
+			"hylotl" : [
+				"...",
+				"...hello, my aquatic friend.",
+				"...do you ever miss the weightlessness of the water? I do, sometimes.",
+				"...I hope this day is treating you well, bud."
+			],
+			"novakid" : [
+				"...",
+				"...what a bright individual.",
+				"...howdy."
+			],
+			"frobe" : [
+				"...hi.",
+				"...hello.",
+				"...I hope this day is treating you well, bud.",
+				"...do you ever miss the weightlessness of the water? I do, sometimes.",
+				"...nice to see a familiar face."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/converse/frobe",
+		"value": {
+			"default" : [
+				"...sorry I'm not much for conversation.",
+				"...did you need something?",
+				"...if you're looking for a chat, maybe try someone else..."
+			],
+			"apex" : [
+				"...I'd get hot with all that hair.",
+				"...I may not be as clever as you, but I try my best.",
+				"...if I had a banana, I'd share it with you. Except I don't."
+			],
+			"avian" : [
+				"...what kind of bird can't fly?",
+				"...I'll try not to ruffle your feathers.",
+				"...can I touch your feathers?"
+			],
+			"floran" : [
+				"...I prefer your weapon stay sheathed, Floran.",
+				"...I'm not looking to get in your way.",
+				"...let's respect each other.'"
+			],
+			"human" : [
+				"...not having a permanent home is hard. We feel for you, friend.",
+				"...please leave the swamps alone. There aren't many.",
+				"...careful where you point that weapon."
+			],
+			"hylotl" : [
+				"...warm wishes, bud.",
+				"...I'm <selfname>. It's real nice to chat with you.",
+				"...we're not so different, you know."
+			],
+			"novakid" : [
+				"...if you're looking to get a rare gun, we Frobe can probably help you out.",
+				"...where do you come from, fiery friend?",
+				"...warm wishes to you. Ha, ha."
+			],
+			"frobe" : [
+				"...warm wishes, bud",
+				"...we Frobe have to stick together.",
+				"...it's always good to see another Frobe.",
+				"...I hope your travels have been fruitful.",
+				"...may your skin stay damp and your eyes bright.",
+				"...I'd gladly share my rations with you, tad."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/converse/apex/frobe",
+		"value": [
+			"A talking frog?",
+			"Got anything to sell me?"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/avian/frobe",
+		"value": [
+			"A talking frog?",
+			"Got anything to sell me?"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/floran/frobe",
+		"value": [
+			"A talking frog?",
+			"Got anything to ssell me?"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/glitch/frobe",
+		"value": [
+			"Curious. I don't see many of you around.",
+			"Surprised. A talking frog?",
+			"Interested. Do you have any merchandise?"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/human/frobe",
+		"value": [
+			"A talking frog?",
+			"Got anything to sell me?"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/hylotl/frobe",
+		"value": [
+			"A talking frog?",
+			"Are you a merchant as well?"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/novakid/frobe",
+		"value": [
+			"A talkin' frog? Well that's a new one.",
+			"Got anythin' to sell me?"
+		]
+	}
+]

@@ -1,0 +1,32 @@
+[
+	{
+		"op": "add",
+		"path": "/helpme/frobe",
+		"value": {
+			"default": [
+				"!!",
+				"Danger!'",
+				"I need help!"
+			]
+		}
+	/* },
+	{
+		"op": "add",
+		"path": "/helpthem/frobe",
+		"value": {
+			"default": [
+				"!!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/encourage/frobe",
+		"value": {
+			"default": [
+				"...you can do it!",
+				"!!"
+			]
+		}
+	*/ }
+]

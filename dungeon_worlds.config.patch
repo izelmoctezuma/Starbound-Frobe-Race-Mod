@@ -1,0 +1,26 @@
+[
+  {
+    "op": "add",
+    "path": "/frobestart",
+    "value": {
+      "primaryDungeon": "frobestart",
+      "threatLevel": 1,
+      "gravity": 80,
+      "worldSize": [
+        2000,
+        2000
+      ],
+      "dungeonBaseHeight": 1000,
+      "dungeonSurfaceHeight": 495,
+      "ambientLightLevel": [
+        128,
+        128,
+        128
+      ],
+      "biome": "jungle",
+      "environmentStatusEffects": [
+        "dontstarve"
+      ]
+    }
+  }
+]

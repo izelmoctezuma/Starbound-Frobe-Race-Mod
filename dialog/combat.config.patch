@@ -1,0 +1,40 @@
+[
+	{
+		"op": "add",
+		"path": "/attack/frobe",
+		"value": {
+			"default": [
+				"!!",
+				"Danger!",
+				"On alert!",
+				"I need a hand!"
+			],
+			"frobe": [
+				"!!",
+				"Danger!",
+				"Friend, watch out!",
+				"I need a hand!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/frobe",
+		"value": {
+			"default": [
+				"...a shameful waste.",
+				"...that was too close."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/frobe",
+		"value": {
+			"default": [
+				"...I'm glad it's over for now.",
+				"...let's hope it doesn't come back around."
+			]
+		}
+	}
+]

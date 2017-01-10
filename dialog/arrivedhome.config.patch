@@ -1,0 +1,34 @@
+[
+	{
+		"op": "add",
+		"path": "/beacon/frobe",
+		"value": {
+			"default": [
+				"...",
+				"...ribbit.",
+				"...hm."
+			],
+			"frobe": [
+				"...you called me, friend?",
+				"...did you need something?",
+				"...here I am."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/frobe",
+		"value": {
+			"default": [
+				"...",
+				"...I hope this covers it.",
+				"...it's not much, but I hope it's enough."
+			],
+			"frobe": [
+				"...I hope this covers it.",
+				"...it's not much, but I hope it's enough.",
+				"...thanks for the lodging, tad."
+			]
+		}
+	}
+]
