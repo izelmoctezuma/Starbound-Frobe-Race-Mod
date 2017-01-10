@@ -16,7 +16,7 @@
       "default" : "player"
     },
     "startingMusicTime" : 11.5,
-    "startingMusicTracks" : ["/music/planetarium.ogg"],
+    "startingMusicTracks" : ["/music/psyche.ogg"],
     "midpointMusicTime" : 48.0,
     "midpointMusicTracks" : ["/music/arctic-battle1-loop.ogg"],
     "midpointCinematic" : "/cinematics/intro/introstage.cinematic",
@@ -24,9 +24,9 @@
     "endpointCinematic" : "/cinematics/intro/introcomplete.cinematic",
     "confiscateItems" : [
       "brokenprotectoratebroadsword",
-      "protectoratechest",
-      "protectoratepants",
-      "protectorateflowerhead",
+      "jumpsuitchest",
+      "jumpsuitlegs",
+      "broom",
       "raggedprotectoratecape",
       ["oculemonade", 1000],
       ["chocolate", 1000],
